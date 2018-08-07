@@ -8,7 +8,7 @@
   - This project uses https://www.kaggle.com/c/dogs-vs-cats/data as a dataset
   - It was written in Python
   - Keras uses TensorFlow by Google
-  - It is 85% accurate.
+  - It is ~85% accurate.
 
 # Installation
 
