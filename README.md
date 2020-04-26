@@ -4,7 +4,7 @@
 
 
 
-  - This is a project that was inspired on [this article](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) 
+  - This is a project that was inspired from [this article](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) 
   - This project uses https://www.kaggle.com/c/dogs-vs-cats/data as a dataset
   - It was written in Python
   - Keras uses TensorFlow by Google
